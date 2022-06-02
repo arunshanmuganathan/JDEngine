@@ -1,0 +1,333 @@
+Job Titles,Responsibilities,Requirements,Experience_Years,Degree,Keywords
+Manager - Business Applications,"Achieving and managing the planned timelines and objectives related to QA and Application Support
+Enhancing QA coverage (percentage of live modification channelled through QA), practices, and establishing QA lab
+Completion of assigned tasks or projects on fixed / agreed dates (speed, responsibility
+Effectiveness of external and internal customer handling
+Establishment of Application Management practice for the software team
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+10 years direct experience in software development and/or programming design and systems management.
+Proven experience in overseeing the direction, development, and implementation of software solutions.
+Direct, hands-on experience with automated software and system management tools.
+Strong knowledge of system and software quality assurance best practices and methodologies.
+Extensive experience with core software applications.
+Technically fluent in programming languages.
+Good project management skills and/or substantial exposure to project-based work structures, project lifecycle models, etc.
+Knowledge of database design and file management techniques.
+Working knowledge of network and PC operating systems.
+Knowledge of network hardware, protocols, and standards.
+Excellent understanding of the organization's goals and objectives.
+Knowledge of applicable data privacy practices and laws.
+",10,1,"automated software and system management tools, project management skills, database design, experience in overseeing the direction, development, and implementation of software solutions, system and software quality assurance best practices"
+Assistant Manager - Business Applications,"Achieving the planned timelines and objectives related to all the development mainly the Finance ERP
+Establishment of industry practices such as DevOps, suitable software development practices, etc.
+Effectiveness of external and internal customer handling
+Facilitate problem solving and collaboration
+The quality of completed tasks or projects
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+8 years direct experience in software development and/or programming design and systems management.
+Proven experience in overseeing the direction, development, and implementation of software solutions.
+Direct, hands-on experience with automated software and system management tools.
+Strong knowledge of system and software quality assurance best practices and methodologies.
+Extensive experience with core software applications.
+Technically fluent in programming languages.
+Knowledge of database design and file management techniques.
+Knowledge of network hardware, protocols, and standards.
+Excellent understanding of the organization's goals and objectives.
+Knowledge of applicable data privacy practices and laws.
+",8,1,"hands-on experience with automated software and system management tools, system and software quality assurance best practices, fluent in programming languages, database design and file management, experience with core software applications"
+Tech Lead - Software,"Determining project requirements and developing work schedules for the team.
+Delegating tasks and achieving daily, weekly, and monthly goals.
+Liaising with team members, management, and clients to ensure projects are completed to standard.
+Identifying risks and forming contingency plans as soon as possible.
+Analyzing existing operations and scheduling training sessions and meetings to discuss improvements.
+Keeping up-to-date with industry trends and developments.
+Updating work schedules and performing troubleshooting as required.
+Motivating staff and creating a space where they can ask questions and voice their concerns.
+Being transparent with the team about challenges, failures, and successes.
+Writing progress reports and delivering presentations to the relevant stakeholders.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+7 years experience in the Software Development field.
+Relevant Management certification may be required.
+Experience in a similar role would be advantageous.
+Excellent technical, diagnostic, and troubleshooting skills.
+Strong leadership and organizational abilities.
+Willingness to build professional relationships with staff and clients.
+Excellent communication, motivational, and interpersonal skills.",7,1,"leadership and organizational abilities, technical, diagnostic, and troubleshooting skills, experience in Software Development"
+Tech Lead - Quality Assurance,"Lead QA team on overall testing activities, approaches, and strategies
+Establish, maintain, and oversee all aspects of QA processes and methodologies to ensure effectiveness and alignment to industry best practices
+Prepare, review, and maintain testing documents (test plan, test cases, test reports,) to ensure complete test coverage
+Manage proper execution by the QA team on different types of testing (functional, integration, end-to-end, performance, etc)
+Perform QA testing activities as required (test case preparation, testing execution, environment setup, installation, etc)
+Facilitate and lead regular QA team meetings or triage calls
+Prioritize testing activities
+Efficient management of QA resources across multiple projects
+Coordinate the maintenance of test environments. Must be able to work closely with Dev Ops and the client to support deployment and testing of parallel releases for all channels and platforms.
+Provide strategic testing initiatives for projects to introduce efficient techniques and test productivity improvements
+Manage risks and deliverables to ensure that the testing activities remain within agreed scope, schedule, budget, and quality standards
+Work with project manager and development team to report and escalate relevant testing issues and challenges that arise during testing activities
+Responsible for reporting metrics, test reports, plans, and problems to upper management and other involved parties
+Provide support, assistance, or decisions to QA, support engineer, and customer's test teams (e.g., recreate issues reported by the customer in production, or in support of customer queries)
+Conduct QA team performance review and improvement
+Work and collaborate with other teams across different offices of the company to achieve organizational objectives when needed
+Provide effort and estimates of testing activities required for the projects or deliverables when needed
+Manage or prepare customer demo presentations for project deliverables when needed","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+7+ experience as Software QA including 3+ experience as QA Senior/Lead/Manager
+Experience in people management or leading a team
+Solid experience in Agile testing methodologies and best practices.
+Expert knowledge of software testing, quality improvement, quality process, quality assurance methodologies, and best practices.
+Experiences in web services, batch/extract file processing, point-of-sale
+A good understanding on financial and accounting principles is a plus
+Experience and good understanding of automation testing and frameworks
+Software Testing or Quality related certification is a plus",7,1,"experience in software QA, people management, Agile testing methodologies, software testing, quality improvement, quality process, quality assurance methodologies, good understanding of automation testing and frameworks"
+Associate Team Lead - Software,"Develop and maintain an integration architecture blueprint for the organization.
+Orchestrate integration projects and corresponding strategies between business units and development teams.
+Plan, execute, and manage the integration of new applications into existing systems and software throughout the enterprise.
+Plan, execute, and manage the integration of new application integration technology into the existing AI environment.
+Ensure that integration projects meet business requirements and goals, fulfill end-user requirements, and identify and resolve systems issues.
+Ensure that integration planning and practices are aligned with strategic business goals and the company's overall strategic vision.
+Develop standards and processes to support and facilitate integration projects and initiatives.
+Research and make recommendations on integration products and services in support of procurement and development efforts.
+Collaborate with analysts, designers, and system owners in the testing of newly integrated software programs and applications.
+Lead integration testing phase of software and applications under development in order to identify and remedy potential problem areas.
+","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Previous experience as a Senior Software engineer/ Associate Tech Lead.
+Managerial experience preferred.
+5 years experience in the relevant field.
+High-level analytical skills.
+Advanced written and verbal communication skills.
+Critical thinker.
+Ability to project manage.
+Proficient in MS Office 365 and Azure.
+Detail oriented.",5,1,"experience as a Senior Software engineer/ Associate Tech Lead, High-level analytical skills, project management, Azure, experience in software development, scripting, excellent coding abilities"
+Associate Team Lead - Quality Assurance,"Lead pre-testing phase of development by evaluating proposals in order to identify potential problem areas, and make the appropriate recommendations. 
+Ensure that development projects meet business requirements and goals, fulfill end-user requirements, and identify and resolve systems issues.
+Review and analyze existing application effectiveness and efficiency, and then develop strategies for improving or leveraging these systems.
+Manage the development and deployment of new applications, systems software, and/or enhancements to existing applications throughout the enterprise.
+Research and make recommendations on software products and services in support of procurement and development efforts.
+Coordinate feasibility studies for software and system products under consideration for purchase, and give advice based on findings.
+Ensure that any new software integration into company systems meets functional requirements, system compliance, and interface specifications.
+Collaborate with analysts, designers, and system owners in the testing of new software programs and applications.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Previous experience as a Senior QA engineer.
+Managerial experience preferred.
+5 years experience in the relevant field.
+High-level analytical skills.
+Advanced written and verbal communication skills.
+Critical thinker.
+Ability to project manage.
+Proficient in MS Office 365 and Azure.
+Knowledge in Agile Testing and best practices.",5,1,"experience as a Senior QA engineer, High-level analytical skills, project management, Agile Testing methodologies, software testing, quality improvement, automation testing"
+Senior Software Engineer,"Achieving the planned timelines and objectives related to all the development mainly the Finance ERP, Auto ERP and Group websites
+Establish innovation and R&D practices. Improving team skills levels and effectiveness through training
+Introduction of new technologies and features to the applications to enhance efficiencies of systems (for e.g.: .net core upgrade)
+Establishment of industry practices such as DevOps, suitable software development practices, etc.
+The quality of completed tasks or projects
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Proven experience as a Senior Software Engineer
+Extensive experience in software development, scripting and project management
+3 years experience in the relevant field
+Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+Knowledge of selected programming languages (e.g. Python, C++) and the Java/J2EE platform
+In-depth knowledge of relational databases (e.g. PostgreSQL, MySQL) and NoSQL databases (e.g. MongoDB)
+Familiarity with various operating systems (Linux, Mac OS, Windows)
+Analytical mind with problem-solving aptitude
+Ability to work independently
+Excellent organizational and leadership skills
+",3,1,"experience in software development, scripting and project management, system monitoring tools, excellent coding ability, In-depth knowledge of relational databases, organizational and leadership skills"
+Senior QA Engineer,"Meeting with the software/product designers to determine quality assurance parameters.
+Leading the QA team in designing QA test procedures.
+Overseeing the drafting of testing documents.
+Implementing testing procedures and overseeing the QA process.
+Troubleshooting quality issues and modifying test procedures.
+Conducting analysis checks on product specifications.
+Reviewing Quality Assurance reports.
+Ensuring the successful deployment of products into the market.
+Responding to requests from the design team and management.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Previous experience as a QA engineer.
+Managerial experience preferred.
+3 years experience in the relevant field.
+High-level analytical skills.
+Advanced written and verbal communication skills.
+Critical thinker.
+Ability to project manage.
+Proficient in MS Office software.
+Knowledge in Agile Testing methodologies.",3,1,"High-level analytical skills, Agile Testing methodologies, Managerial experience, software testing, quality improvement, quality process, quality assurance, automation testing frameworks"
+Software Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+The quality of completed tasks or projects
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Performance-based on number of effective code lines
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Provide guidance to the team based on management direction
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+1 to 2 years of software engineering or software development experience, preferably in a related field.
+Hands-on programming experience using relevant languages.
+Experience using relevant tool suites.
+Strong written and verbal communication and interpersonal skills.
+Creative problem-solving skills.
+Experience managing the software development lifecycle.
+The ability to prioritize activities and deliver projects on time and within budget.
+Experience working with clients and business partners.
+A comprehensive understanding of computer science concepts.
+Excellent coding ability.
+Extensive knowledge of agile methodologies.
+Strong team-building skills.",2,1,"Creative problem-solving skills, software development lifecycle, computer science concepts, Excellent coding ability, knowledge of agile methodologies, communication and interpersonal skills, Scrum development, SQL"
+QA Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Initiation of effective QA bugs
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+2 years experience in the QA field.
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes
+Experience in writing clear, concise and comprehensive test plans and test cases
+Hands-on experience with both white box and black box testing
+Hands-on experience with automated testing tools
+Solid knowledge of SQL and scripting
+Experience working in an Agile/Scrum development process
+Experience with performance and/or security testing is a plus
+",2,1,"experience in software quality assurance, writing clear, concise and comprehensive test plans and test cases, white box and black box testing, automated testing tools,  Agile testing methodologies, SQL"
+Business Analyst,"The quality of completed tasks or projects (BA)
+Completion of assigned tasks or projects on fixed / agreed dates
+Knowledge on operational and functional processes
+Complete tasks effectively 
+Effectiveness of customer handling
+Provide guidance to the team based on management direction
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in business or related field or an MBA.
+A minimum of 3 years of experience in business analysis or a related field.
+Exceptional analytical and conceptual thinking skills.
+The ability to influence stakeholders and work closely with them to determine acceptable solutions.
+Advanced technical skills.
+Excellent documentation skills.
+Fundamental analytical and conceptual thinking skills.
+Experience creating detailed reports and giving presentations.
+Competency in Microsoft applications including Word, Excel, and Outlook.
+A track record of following through on commitments.
+Excellent planning, organizational, and time management skills.
+Experience leading and developing top-performing teams.
+A history of leading and supporting successful projects.",3,2,"Excellent documentation skills, planning, organizational, and time management skills, creating detailed reports and giving presentations, leading and developing teams, project management"
+Application Support Engineer,"Knowledge of operational and functional processes
+complete tasks effectively
+Client satisfaction based on task / project completion
+The ability of job completion on effective time duration
+The quality of completed tasks or projects (Support Team)
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Demonstrable experience as an application support engineer in a related field.
+Advanced knowledge of front-end and back-end programming languages, such as C++, Javascript, Python, and Ruby.
+Ability to manage code migration, document configuration changes, and monitor performance.
+Exceptional ability to provide front-end support to internal departments and web-based clients.
+Advanced proficiency in determining the causes of application errors and repairing them. - Troubleshooting
+Knowledge of Advanced Encryption Standards (AES).
+Ability to keep up with innovation in application design.
+Exceptional communication skills.
+2 years experience in the relevant field.",2,1,"manage code migration, document configuration changes, and monitor performance, provide front-end support, Troubleshooting, proficiency in determining the causes of application errors, coding skills, programming"
+Associate Software Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+The quality of completed tasks or projects
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Performance-based on number of effective code lines
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+1 year of software engineering or software development experience, preferably in a related field.
+Hands-on programming experience using relevant languages.
+Experience using relevant tool suites.
+Strong written and verbal communication and interpersonal skills.
+Creative problem-solving skills.
+The ability to prioritize activities and deliver projects on time and within budget.
+A comprehensive understanding of computer science concepts.
+Coding abilities.
+Strong team-building skills.",1,1,"Hands-on programming experience, problem-solving skills, understanding of computer science concepts, Coding abilities, software development"
+Associate QA Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Initiation of effective QA bugs
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+1 year quality assurance experience in Agile Development environments
+Familiarity with Agile Software Development Methodologies
+Experience with automated testing tools or equivalent automation skills
+Experience with web-based application testing
+Defines problems, collects data, establishes facts, draws valid conclusions, and provides solutions
+Identifies, communicates, and escalates issues as required
+A team player and self-starter who will work side by side with the development team
+Ability to multi-task, prioritize tasks and quickly adjust in a rapidly changing environment
+Excellent verbal and written communication skills",1,1,"Experience with automated testing tools or equivalent automation skills, web-based application testing, Agile testing methodologies"
+Associate Application Support Engineer,"Knowledge of operational and functional processes
+complete tasks effectively
+Client satisfaction based on task / project completion
+The ability of job completion on effective time duration
+The quality of completed tasks or projects (Support Team)
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+1 year  experience in Software Development Field
+Familiarity with Agile Software Development Methodologies
+Experience with automated testing tools or equivalent automation skills
+Experience with web-based application testing
+Defines problems, collects data, establishes facts, draws valid conclusions, and provides solutions
+Identifies, communicates, and escalates issues as required
+A team player and self-starter who will work side by side with the development team
+Ability to multi-task, prioritize tasks and quickly adjust in a rapidly changing environment
+Excellent verbal and written communication skills
+Troubleshooting skills",1,1,"Troubleshooting skills, proficiency in determining the causes of application errors, coding skills, programming, Software Development Methodologies"
+Trainee Software Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+The quality of completed tasks or projects
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Performance-based on number of effective code lines
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Experience in a technical field would be advantageous.
+Proficiency in mathematics.
+Coding ability in any languages.
+Analytical and critical thinking skills.
+Good communication skills.
+Ability to maintain composure under pressure.
+Ability to work in a team.
+Good observation skills and a willingness to learn.",0,1,"Proficiency in mathematics, Coding ability in any languages, Analytical and critical thinking skills, Ability to work in a team, software development"
+Trainee QA Engineer,"Completion of assigned tasks or projects on fixed / agreed dates
+Knowledge of operational and functional processes
+Completing of task with minimum no of bugs
+Initiation of effective QA bugs
+Initiation on trying new technologies / functional process improvements / techniques
+complete tasks effectively
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Experience in a technical field would be advantageous.
+Proficiency in mathematics.
+Analytical and critical thinking skills.
+Good communication skills.
+Ability to maintain composure under pressure.
+Ability to work in a team.
+Good observation skills and a willingness to learn.
+Familiarity with Agile Software Development Methodologies
+Familiarity with automated testing tools or equivalent automation skills
+Knowledge in web-based application testing",0,1,"Proficiency in mathematics, Knowledge in web-based application testing, Familiarity with automated testing tools, Analytical and critical thinking skills"
+Trainee Application Support Engineer,"Knowledge of operational and functional processes
+complete tasks effectively
+Client satisfaction based on task / project completion
+The ability of job completion on effective time duration
+The quality of completed tasks or projects (Support Team)
+Maintain good housekeeping, 5S and DMS practices within the division
+Duties or responsibilities assigned by Board of Directors & Divisional Heads / Immediate superiors.","A bachelor's degree in software engineering, computer science, information technology, information systems, computer engineering, or similar.
+Experience in a technical field would be advantageous.
+Familiarity in troubleshooting software applications.
+Proficiency in mathematics.
+Analytical and critical thinking skills.
+Good communication skills.
+Ability to maintain composure under pressure.
+Ability to work in a team.
+Good observation skills and a willingness to learn.",0,1,"Proficiency in mathematics, Analytical and critical thinking skills, programming knowledge, Ability to work in a team, troubleshooting"
