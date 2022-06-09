@@ -1,12 +1,12 @@
 # Import Libraries
-
+import nltk
 import pandas
 import pandas as pd
 import numpy as np
 import re
 
 from sklearn.feature_extraction.text import CountVectorizer
-
+nltk.download('stopwords')
 
 from nltk.corpus import stopwords
 from nltk import PorterStemmer
@@ -72,10 +72,18 @@ for x in range(len(skills_df)):
     df_new = df_new.append({'Job Title': skills_df.iat[x,0], 'Responsibilities' : keywords_resp ,
                             'Requirements': keywords_req}, ignore_index=True)
 
+pd.options.display.max_colwidth = 1500
 #Add sidebar to the app
-st.sidebar.markdown("### Job Description Engine")
-st.sidebar.markdown("This app can be used to match jobs with qualifications and skills!")
-
+st.sidebar.markdown("### View Job Descriptions")
+job_role = st.sidebar.selectbox('Select Role', (df['Job Titles']))
+if st.sidebar.button('View'):
+    resp_string = df['Responsibilities'].loc[df['Job Titles'] == job_role].to_string(index=False)
+    new_set = resp_string.replace(r'\n', '')
+    # new_set = [x.replace(r"\n", '') for x in resp_string]
+    new_set_string = ''.join([str(item) for item in new_set])
+    sentenceSplit = filter(None, new_set_string.split("."))
+    for s in sentenceSplit :
+        st.sidebar.caption(s.strip() + ".")
 #Add title and subtitle to the main interface of the app
 st.title("Job Description Engine")
 st.markdown("Input the following in order to suggest suitable job ")
