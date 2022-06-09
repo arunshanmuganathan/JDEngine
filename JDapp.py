@@ -119,57 +119,61 @@ if st.button('Confirm'):
             'information systems' in degree:
         degree_set = 1
 
-
-    df_new['Experience'] = df['Experience_Years']
-    df_new['Degree'] = df['Degree']
-    df_new['Keywords'] = df['Keywords']
-
-    def check_empty(exp_years):
-        if df_new[(df_new['Experience'] == exp_years)].empty:
-            exp_years = exp_years - 1
-            return check_empty(exp_years)
-        else:
-            return exp_years
-
-    df_filtered = df_new[(df_new['Experience'] == check_empty(exp)) & (df_new['Degree'] == degree_set)]
-    df_filtered.reset_index(inplace=True)
-
-    keywords_preprocessed = df_filtered['Keywords'].apply(lambda x: pre_process(x))
-
-    # print(df_filtered)
-    # text_keywords = df_filtered['Keywords'].map(' '.join)
-
-    if skills == '':
-        jobs_list = df_filtered['Job Title'].tolist()
-        st.subheader("Job Prediction", anchor=None)
-        for i in jobs_list:
-            st.markdown("- " + i)
+    if degree == '':
+        st.markdown('Enter Qualification')
 
     else:
-        highest_cosine = 0
-        for x in range(len(df_filtered)):
-            data = [keywords_preprocessed.iloc[x], skills]
-            print(data)
-            count_vectorizer = CountVectorizer()
-            vector_matrix = count_vectorizer.fit_transform(data)
-            # cosine_similarity_matrix = cosine_similarity(vector_matrix)
-            locals()['cosine_similarity_matrix_' + str(x)] = cosine_similarity(vector_matrix)
-            print(locals()['cosine_similarity_matrix_' + str(x)][1, 0])
-            if len(df_filtered) == 1:
-                highest_cosine = locals()['cosine_similarity_matrix_' + str(x)][1, 0]
-                jd = df_filtered['Job Title'][x]
-            else:
-                if locals()['cosine_similarity_matrix_' + str(x)][1, 0] > highest_cosine:
-                    highest_cosine = locals()['cosine_similarity_matrix_' + str(x)][1, 0]
-                    jd = df_filtered['Job Title'][x]
 
-        if highest_cosine == 0:
+        df_new['Experience'] = df['Experience_Years']
+        df_new['Degree'] = df['Degree']
+        df_new['Keywords'] = df['Keywords']
+
+        def check_empty(exp_years):
+            if df_new[(df_new['Experience'] == exp_years)].empty:
+                exp_years = exp_years - 1
+                return check_empty(exp_years)
+            else:
+                return exp_years
+
+        df_filtered = df_new[(df_new['Experience'] == check_empty(exp)) & (df_new['Degree'] == degree_set)]
+        df_filtered.reset_index(inplace=True)
+
+        keywords_preprocessed = df_filtered['Keywords'].apply(lambda x: pre_process(x))
+
+        # print(df_filtered)
+        # text_keywords = df_filtered['Keywords'].map(' '.join)
+
+        if skills == '':
             jobs_list = df_filtered['Job Title'].tolist()
             st.subheader("Job Prediction", anchor=None)
             for i in jobs_list:
                 st.markdown("- " + i)
 
         else:
-            st.subheader("Job Prediction", anchor=None)
-            st.markdown("- " + jd)
-            skills = ''
+            highest_cosine = 0
+            for x in range(len(df_filtered)):
+                data = [keywords_preprocessed.iloc[x], skills]
+                print(data)
+                count_vectorizer = CountVectorizer()
+                vector_matrix = count_vectorizer.fit_transform(data)
+                # cosine_similarity_matrix = cosine_similarity(vector_matrix)
+                locals()['cosine_similarity_matrix_' + str(x)] = cosine_similarity(vector_matrix)
+                print(locals()['cosine_similarity_matrix_' + str(x)][1, 0])
+                if len(df_filtered) == 1:
+                    highest_cosine = locals()['cosine_similarity_matrix_' + str(x)][1, 0]
+                    jd = df_filtered['Job Title'][x]
+                else:
+                    if locals()['cosine_similarity_matrix_' + str(x)][1, 0] > highest_cosine:
+                        highest_cosine = locals()['cosine_similarity_matrix_' + str(x)][1, 0]
+                        jd = df_filtered['Job Title'][x]
+
+            if highest_cosine == 0:
+                jobs_list = df_filtered['Job Title'].tolist()
+                st.subheader("Job Prediction", anchor=None)
+                for i in jobs_list:
+                    st.markdown("- " + i)
+
+            else:
+                st.subheader("Job Prediction", anchor=None)
+                st.markdown("- " + jd)
+                skills = ''
