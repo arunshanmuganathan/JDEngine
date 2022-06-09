@@ -120,7 +120,7 @@ if st.button('Confirm'):
         degree_set = 1
 
     if degree == '':
-        st.markdown('Enter Qualification')
+        st.markdown('**_Enter Qualification_**')
 
     else:
 
