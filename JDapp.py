@@ -9,6 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+nltk.download('punkt')
 from nltk.corpus import stopwords
 from nltk import PorterStemmer
 from nltk import WordNetLemmatizer
